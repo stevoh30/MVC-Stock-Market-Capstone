@@ -1,0 +1,320 @@
+﻿@model StockMarket.Models.List.ViewPoint
+@using StockMarket.Models.Computation
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Compute compute = new Compute();
+
+    string company_Split = String.Empty;
+}
+<script type="text/javascript">
+    google.charts.load('current', { 'packages': ['annotatedtimeline'] });
+    google.charts.load('current', { 'packages': ['corechart'] });
+    google.charts.setOnLoadCallback(DrawChart);
+
+    function DrawChart() {
+
+        var losers = @Html.Raw(Json.Encode(Model.LosersChartVolume));
+        var gainers = @Html.Raw(Json.Encode(Model.GainersChartVolume));
+        var active = @Html.Raw(Json.Encode(Model.ActiveChartVolume));
+
+        var losers_data = new google.visualization.DataTable(losers);
+        var gainers_data = new google.visualization.DataTable(gainers);
+        var active_data = new google.visualization.DataTable(active);
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+
+        var chart1 = new google.visualization.BarChart(document.getElementById('chart_div1'));
+
+        var chart2 = new google.visualization.BarChart(document.getElementById('chart_div2'));
+
+
+        //Chart Customization,Changing Color,Size and adding new Features
+        chart.draw(gainers_data,
+            {
+                width: 1100, height: 400, backgroundColor: '#343a40',
+                chartArea: {
+                    width: 1000, height: 350,
+
+                },
+                colors: ['#ffffff'], legend: 'none',
+                hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff', fontSize: 12 } },
+                curveType: 'function',
+                pointSize: 10,
+            });
+
+        chart1.draw(losers_data,
+            {
+                width: 1100, height: 400, backgroundColor: '#343a40',
+                chartArea: {
+                    width: 1000, height: 350,
+
+                },
+                colors: ['#ffffff'], legend: 'none',
+                hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff', fontSize: 12  } },
+                curveType: 'function',
+                pointSize: 10,
+            });
+        chart2.draw(active_data,
+            {
+                width: 1100, height: 400, backgroundColor: '#343a40',
+                chartArea: {
+                    width: 1000, height: 350,
+                },
+                colors: ['#ffffff'], legend: 'none',
+                hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff', fontSize: 12} },
+                curveType: 'function',
+                pointSize: 10,
+            });
+    }
+</script>
+<b style="color:#343a40"></b>
+<!--The Home page contains a Home List-group of the Gainers, Losers and The Active displaying 5 Random companies from the list of each ,
+    it also containes the Market News Section the display News of the Gainers.
+    
+    * If statement to Change the Colors 
+    -->
+<div class="row">
+    <div id="hiddden_table1" class="col-sm-4" style="padding-top:34px">
+        <div class="list-group" style="max-width: 23rem;">
+            <a data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2" class="list-group-item list-group-item-action flex-column align-items-start active" id="hiddden_table">
+                <div>
+                    <p style="float:left;">
+                        <b>Gainers</b>
+                    </p>
+                    <p style="float:right;">
+                        <b>></b>
+                    </p>
+                </div>
+            </a>
+            @{
+                Random rd = new Random();
+                for (int a = 0; a < 5; a++)// Will Only Display 5 Random Gainers , The Rest will be Displayed in the Table
+                {
+                    int index = rd.Next(Model._gainers.Count);
+                    //string[] split = Model._gainers[index].companyName.Split(' ');
+                    //company_Split = string.Concat(split[0], " ", split[1]);
+
+
+
+                    <a href="@(Url.Action("CompanySite","HomeAsync", new { com = Model._gainers[index].symbol }))" class="list-group-item list-group-item-action flex-column align-items-start" id="hiddden_table">
+                        @if (compute.Change_Percent(Model._gainers[index].latestPrice, Model._gainers[index].previousClose) > 0)// Less than Zero
+                        {
+                            <div>
+                                <p style="float:left;">
+                                    <b>@Model._gainers[index].symbol</b><br /><b style="color:green">&#9650;@Model._gainers[index].latestPrice</b>
+                                </p>
+                                <p style="float:right;">
+                                    <b>@compute.Truncate(Model._gainers[index].companyName)</b><br /><b style="color:green">@compute.Value(Convert.ToDouble(Model._gainers[index].latestVolume))<span style="color:green">&#43;@compute.Change_Percent(Model._gainers[index].latestPrice, Model._gainers[index].previousClose)</span></b>
+                                </p>
+                            </div>
+                        }
+                        else
+                        {
+                            <div>
+                                <p style="float:left;">
+                                    <b>@Model._gainers[index].symbol</b><br /><b style="color:#bf1722">&#9660;@Model._gainers[index].latestPrice</b>
+                                </p>
+                                <p style="float:right;">
+                                    <b>@compute.Truncate(Model._gainers[index].companyName)</b><br /><b style="color:#bf1722">@compute.Value(Convert.ToDouble(Model._gainers[index].latestVolume))<span style="color:#bf1722">@compute.Change_Percent(Model._gainers[index].latestPrice, Model._gainers[index].previousClose)</span></b>
+                                </p>
+                            </div>
+                        }
+
+                    </a>
+                }
+            }
+        </div>
+    </div>
+    <div id="hiddden_table1" class="col-sm-4" style="padding-top:34px">
+        <div class="list-group" style="max-width: 23rem;">
+            <a data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2" class="list-group-item list-group-item-action flex-column align-items-start active" id="hiddden_table">
+                <div>
+                    <p style="float:left;">
+                        <b>Active</b>
+                    </p>
+                    <p style="float:right;">
+                        <b>></b>
+                    </p>
+                </div>
+            </a>
+            @{
+                for (int ab = 0; ab < 5; ab++)// Will Only Display 5 Random Active, The Rest will be Displayed in the Table
+                {
+                    if (Model._active.Any())
+                    {
+                        int index1 = rd.Next(Model._active.Count);
+
+                        //string[] split = Model._active[index1].companyName.Split(' ');
+
+                        //company_Split = string.Concat(split[0], " ", split[1]);
+                        <a href="@(Url.Action("CompanySite","HomeAsync", new { com = Model._active[index1].symbol }))" class="list-group-item list-group-item-action flex-column align-items-start">
+
+                            @if (compute.Change_Percent(Model._active[index1].latestPrice, Model._active[index1].previousClose) > 0)// Less than Zero
+                            {
+                                <div>
+                                    <p style="float:left;">
+                                        <b>@Model._active[index1].symbol</b><br /><b style="color:green">&#9650;@Model._active[index1].latestPrice</b>
+                                    </p>
+                                    <p style="float:right;">
+                                        <b>@compute.Truncate(Model._active[index1].companyName)</b><br /><b style="color:green">@compute.Value(Convert.ToDouble(Model._active[index1].latestVolume))<span style="color:green">&#43;@compute.Change_Percent(Model._active[index1].latestPrice, Model._active[index1].previousClose)</span></b>
+                                    </p>
+                                </div>
+                            }
+                            else
+                            {
+                                <div>
+                                    <p style="float:left;">
+                                        <b>@Model._active[index1].symbol</b><br /><b style="color:#bf1722">&#9660;@Model._active[index1].latestPrice</b>
+                                    </p>
+                                    <p style="float:right;">
+                                        <b>@compute.Truncate(Model._active[index1].companyName)</b><br /><b style="color:#bf1722">@compute.Value(Convert.ToDouble(Model._active[index1].latestVolume))<span style="color:#bf1722">@compute.Change_Percent(Model._active[index1].latestPrice, Model._active[index1].previousClose)</span></b>
+                                    </p>
+                                </div>
+                            }
+                        </a>
+                    }
+                    else
+                    {
+                        <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                            <div>
+                                <p style="float:left;">
+                                    <b>N/A</b><br /><b>N/A</b>
+                                </p>
+                                <p style="float:right;">
+                                    <b>N/A</b><br /><b>N/A</b>
+                                </p>
+                            </div>
+                        </a>
+                    }
+                }
+            }
+        </div>
+    </div>
+    <div id="hiddden_table1" class="col-sm-4" style="padding-top:34px">
+        <div class="list-group" style="max-width: 23rem;">
+            <a data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2" class="list-group-item list-group-item-action flex-column align-items-start active" id="" onclick="">
+                <div>
+                    <p style="float:left;">
+                        <b>Losers</b>
+                    </p>
+                    <p style="float:right;">
+                        <b>></b>
+                    </p>
+                </div>
+            </a>
+            @{
+                for (int abc = 0; abc < 5; abc++)// Will Only Display 5 Random Losers The Rest will be Displayed in the Table
+                {
+                    int index2 = rd.Next(Model._losers.Count);
+
+                    //string[] split = Model._losers[index2].companyName.Split(' ');
+
+                    //company_Split = string.Concat(split[0], " ", split[1]);
+
+                    <a href="@(Url.Action("CompanySite","HomeAsync", new { com = Model._losers[index2].symbol }))" class="list-group-item list-group-item-action flex-column align-items-start">
+                        @if (compute.Change_Percent(Model._losers[index2].latestPrice, Model._losers[index2].previousClose) > 0)// Less than Zero
+                        {
+                            <div>
+                                <p style="float:left;">
+                                    <b>@Model._losers[index2].symbol</b><br /><b style="color:green">&#9650;@Model._losers[index2].latestPrice</b>
+                                </p>
+                                <p style="float:right;">
+                                    <b>@compute.Truncate(Model._losers[index2].companyName)</b><br /><b style="color:green">@compute.Value(Convert.ToDouble(Model._losers[index2].latestVolume))<span style="color:green">&#43;@compute.Change_Percent(Model._losers[index2].latestPrice, Model._losers[index2].previousClose)</span></b>
+                                </p>
+                            </div>
+                        }
+                        else
+                        {
+                            <div>
+                                <p style="float:left;">
+                                    <b>@Model._losers[index2].symbol</b><br /><b style="color:#bf1722">&#9660;@Model._losers[index2].latestPrice</b>
+                                </p>
+                                <p style="float:right;">
+                                    <b>@compute.Truncate(Model._losers[index2].companyName)</b><br />
+                                    <b style="color:#bf1722">@compute.Value(Convert.ToDouble(Model._losers[index2].latestVolume))<span style="color:#bf1722">@compute.Change_Percent(Model._losers[index2].latestPrice, Model._losers[index2].previousClose)</span></b>
+                                </p>
+                            </div>
+                        }
+
+                    </a>
+                }
+            }
+
+        </div>
+    </div>
+</div>
+
+
+<!--Hidden Link: Displaying The Gainers, Losers, And Active-->
+<hr />
+
+<div class="collapse multi-collapse card bg-dark text-white" id="multiCollapseExample1">
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link active" href="#tab1" data-toggle="tab">Gainers</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#tab2" data-toggle="tab">Losers</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#tab3" data-toggle="tab">Active</a>
+        </li>
+    </ul>
+    <div class="tab-content px-1 pt-3">
+        <div class="tab-pane active" id="tab1">
+            <div id="chart_div"></div>
+        </div>
+        <div class="tab-pane" id="tab2">
+            <div id="chart_div1"></div>
+        </div>
+        <div class="tab-pane" id="tab3">
+            <div id="chart_div2"></div>
+        </div>
+    </div>
+</div><!--Hidden Table Part-->
+<hr />
+
+<!--Market News-->
+<div>
+    <h3 style="text-align: center;">Market News Section</h3>
+    <hr />
+    @if (Model._marketNews.Any())
+    {
+        for (int ad = 0; ad < 4; ad++)
+        {
+            int news_value = rd.Next(Model._marketNews.Count);
+            <div class="card text-white bg-dark mb-3">
+                <h5 class="card-header">@Model._marketNews[news_value].source</h5>
+                <div class="card-body">
+                    <h5 class="card-title">@Model._marketNews[news_value].headline</h5>
+                    <p class="card-text">@Model._marketNews[news_value].summary</p>
+                    <a href="@Model._marketNews[news_value].url" class="btn btn-primary">@Model._marketNews[news_value].source</a>
+                </div>
+            </div>
+        }
+
+    }
+    else
+    {
+        <div class="card text-white bg-dark mb-3">
+            <h5 class="card-header">News</h5>
+            <div class="card-body">
+                <h5 class="card-title">API NEWS ERROR</h5>
+                <p class="card-text">Unfortunately, Data Can't be Reterived</p>
+                <a href="https://www.msn.com/en-us/money" class="btn btn-primary">Go MSN NEWS</a>
+            </div>
+        </div>
+
+    }
+</div>
+
+
+
+
+
+

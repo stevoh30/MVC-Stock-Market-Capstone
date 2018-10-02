@@ -1,0 +1,61 @@
+﻿@model StockMarket.Models.List.ViewPoint
+@using StockMarket.Models.Computation;
+@{
+    ViewBag.Title = "PortFolioForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Compute compute = new Compute();
+
+
+    string username = (string)Session["username"];
+    string password = (string)Session["password"];
+    string success = (string)Session["success"];
+
+    if (username == null)
+    {
+        <div class="alert alert-warning">
+            <a href="#" class="close" data-dismiss="alert">&times;</a>
+            <strong>Warning!</strong> There was a problem. Please Note!!! You need to Be Logged In to View the Page (Make sure Your Cookies are Enabled)
+        </div>
+    }
+    else
+    {
+        <div>
+            <p>
+                <h2 style="float:left">Your WatchList: <a style="color:green">@username</a></h2>
+                <h2 style="float:right">Total @Model._portfolioList.Count</h2>
+            </p>
+        </div>
+        <div class="table-responsive">
+            <table class="table table-hover table-sm">
+                <tbody>
+                    <tr>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Change</th>
+                        <th>Change%</th>
+                        <th>Volume</th>
+                        <th>MarketCap</th>
+                        <th>52 Week Range</th>
+                    </tr>
+                    @if (Model._portfolioList.Any())
+                    {
+                        foreach (var items in Model._portfolioList)
+                        {
+                            <tr onclick="location.href='@(Url.Action("CompanySite","HomeAsync", new { com = items.symbol }))'">
+                                <th>@items.symbol<br />@compute.Truncate(items.companyName)</th>
+                                <th>@items.latestPrice</th>
+                                <th>@items.change</th>
+                                <th>@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                <th>@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                <th>@compute.MarketCap(items.marketCap)</th>
+                                <th>@items.week52Low<span>- @items.week52High</span></th>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+
+}
+

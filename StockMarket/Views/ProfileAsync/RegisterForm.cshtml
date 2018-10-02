@@ -1,0 +1,124 @@
+﻿@*  This view is used for the user registration and login forms.
+    The registrationform view posts the values in the controller once a form is posted. *@
+@model StockMarket.Models.AccessDatabse.AccessDB
+
+@{
+    ViewBag.Title = "RegisterForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+
+    // If the user has attempted to login with an incorrect value, the controller passes back an error session
+    // that triggers a warning message upon reloading the registrationform view.
+
+    <h2>Login or Create Account</h2>
+    if (Session["error"] != null)
+    {
+        <div class="alert alert-warning">
+            <a href="#" class="close" data-dismiss="alert">&times;</a>
+            <strong>Warning!</strong> @Session["error"].ToString()
+        </div>
+    }
+    <div id="modal">
+        <div class="modalconent">
+            <ul class="nav nav-pills nav-fill">
+                <li class="active"><a data-toggle="tab" href="#login">Login&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                <li><a data-toggle="tab" href="#registration">Registration</a></li>
+            </ul>
+            <br /><br />
+
+            <div class="tab-content">
+                <div id="login" class="tab-pane fade in active">
+                    @using (Html.BeginForm("Login", "ProfileAsync", FormMethod.Post))
+                    {
+                        <form method="post">
+                            <div class="controls">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label>Account Login *</label>
+                                            <input id="username" type="text" name="username" class="form-control" placeholder="Enter Account Login *" required="required" data-error="Login is required.">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label>Password *</label>
+                                            <input id="password" type="text" name="password" class="form-control" placeholder="Enter Password *" required="required" data-error="Password is required.">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <input type="submit" class="btn btn-success btn-send" value="Log in" onclick="validate_login()">
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <br />
+                                    </div>
+                                </div>
+                            </div>
+
+                        </form>
+                    }
+                </div>
+                <div id="registration" class="tab-pane fade">
+                    @using (Html.BeginForm("Register", "ProfileAsync", FormMethod.Post))
+                    {
+                        <form method="post">
+                            <div class="controls">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label>First Name *</label>
+                                            <input id="fname" type="text" name="fname" class="form-control" placeholder="Enter First Name *" required="required" data-error="First name is required.">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label>Last Name *</label>
+                                            <input id="lname" type="text" name="lname" class="form-control" placeholder="Enter Last Name *" required="required" data-error="Last name is required.">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label>Username *</label>
+                                            <input id="username" type="text" name="username" class="form-control" placeholder="Enter Account Login *" required="required" data-error="Login is required.">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label>Password *</label>
+                                            <input id="password" type="password" name="password" class="form-control" placeholder="Enter Password *" required="required" data-error="Password is required.">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <label>Email *</label>
+                                            <input id="email" type="email" name="email" class="form-control" placeholder="Enter Email *" required="required" data-error="Email is required.">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <br />
+                                        <input type="submit" class="btn btn-success btn-send" value="Register" onclick="validate_register()">
+                                    </div>
+                                </div>
+                            </div>
+
+                        </form>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+
+

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+@{ 
+    string username = String.Empty;
+    if(Session["username"] == null)
+    {
+        username = "Profile";
+    }
+    else
+    {
+        username = (string)Session["username"];
+    }
+    // string username = "Profile";username = (string)Session["username"];
+}
+<body>
+    <div class="row">
+        <div class="col-12">
+            <div id="navigation">
+                <nav class="navbar navbar-expand-lg bg-dark navbar-dark" id="navigation_point">
+                    @*<a class="navbar-brand" href="#">AddImage</a>*@
+                    <img src="~/Images/logo.jpg" />
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div style="color:#000000"></div>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="@Url.Action("Index","HomeAsync")"> Home</a>
+                            </li>
+                            <li>
+                                <a class="nav-link" href="@Url.Action("OverViewAsync","HomeAsync")">Current Movers</a>
+                            </li>
+                            <li>
+                                <a class="nav-link" href="@Url.Action("CompanyOverView","HomeAsync")">Companies OverView</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    @username
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="@Url.Action("PortFolioForm","ProfileAsync")">
+                                        WatchList
+                                    </a>
+                                    @if (username == "Profile")
+                                    {
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="@Url.Action("RegisterForm", "ProfileAsync")">
+                                            LogIn/Register
+                                            
+                                        </a>
+                                    }
+                                    else
+                                    {
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="@Url.Action("RegisterForm", "ProfileAsync")">
+                                            Logout
+                                        </a>
+                                    }          
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="@Url.Action("SearchForm", "ProfileAsync")">
+                                        Company Search
+                                       
+                                    </a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr /><br /><br />
+    </div>
+    <br />
+    <footer class="container-fluid text-center" style="background-color:#32383e;padding: 25px; position: absolute; overflow: hidden;">
+        <div>
+
+            &copy; 2018 Stock Market  All rights reserved. All trademarks are property of their respective owners in the US and other countries.
+            VAT included in all prices where applicable.
+            <a href="#">View Terms of Service And Conditions</a>
+        </div>
+
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    @Scripts.Render("~/bundles/Custom")
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

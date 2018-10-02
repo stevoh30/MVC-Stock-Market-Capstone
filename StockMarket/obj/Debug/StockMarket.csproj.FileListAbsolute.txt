@@ -1,0 +1,1083 @@
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CopyComplete
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\EdwinKaburu\source\repos\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csprojAssemblyReference.cache
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stev-\Desktop\Stock_Market\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CopyComplete
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CopyComplete
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\EdwinKaburu\Desktop\New folder (3)\Testing2.0\Stock_Market\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\Stev-\Desktop\StockMarket2\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\Stev-\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CopyComplete
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\scng\Desktop\StockMarket3\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\Stev-\Desktop\StockMarket4\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Stev-\Desktop\Capstone-Project\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CopyComplete
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\EdwinKaburu\Desktop\Testing2.0\wiquehirwet\StockMarket\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.csprojAssemblyReference.cache
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\Stev-\Desktop\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\obj\Debug\StockMarket.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\ApplicationInsights.config
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\StockMarket.dll.config
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\StockMarket.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\StockMarket.pdb
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\csc.exe
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\csc.exe.config
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\csc.rsp
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\csi.exe
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\csi.exe.config
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\csi.rsp
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.AppContext.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Console.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\vbc.exe
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\vbc.exe.config
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\vbc.rsp
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Antlr3.Runtime.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.Web.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Newtonsoft.Json.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.Helpers.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.Mvc.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.Optimization.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.Razor.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.WebPages.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\WebGrease.dll
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.Helpers.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.Mvc.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.Optimization.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.Razor.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.WebPages.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Newtonsoft.Json.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Antlr3.Runtime.pdb
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.AI.Web.xml
+C:\Users\Stev-\Desktop\Computer Science Courses\Q-7\Capstone\StockMarket\StockMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

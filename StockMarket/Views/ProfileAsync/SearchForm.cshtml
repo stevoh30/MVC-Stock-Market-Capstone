@@ -1,0 +1,75 @@
+﻿@model StockMarket.Models.List.ViewPoint
+
+@{
+    ViewBag.Title = "SearchForm";
+    Layout = "~/Views/Shared/_layout2.cshtml";
+}
+
+<div class="container">
+    <div class="row" align="center">
+        <div class="col-md-12">
+            <div class="wrap">
+                <p class="form-title" style="font-size:23px">
+                    Enter Company Symbol
+                </p>
+                @using (Html.BeginForm("Search", "ProfileAsync", FormMethod.Post))
+                {
+                    <form method="post" class="form-search">
+
+                        <div class="input-group col-md-4">
+                            <input class="form-control py-2" type="text" placeholder="Search..." name="input" id="name1">
+                            <span class="input-group-append">
+                                <input type="submit" value="&#128269;" class="btn btn-success btn-sm" />
+                            </span>
+                        </div>
+
+                    </form>
+                }
+
+            </div>
+        </div>
+    </div>
+    <br />  <br /><br />
+
+    <h2 style="text-align:center">Companies Symbol's Index Ref.200 Entries</h2><hr />
+    <div class="table-responsive">
+        <table id="example" class="table  table-hover table-sm" style="width:100%">
+            <thead>
+                <tr>
+                    <th>CompanyID</th>
+                    <th>Symbol</th>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model._randomCompany.Any())
+                {
+                    string company = "";
+                    foreach (var item in Model._randomCompany)
+                    {
+                        if (item.name.Count(Char.IsWhiteSpace) >= 2)
+                        {
+                            string[] names = item.name.Split(' ');
+                            company = string.Concat(names[0], " ", names[1]);
+                        }
+                        <tr>
+                            <th>@item.Id</th>
+                            <th>@item.symbol</th>
+
+                            <th>@company</th>
+                        </tr>
+                    }
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>CompanyID</th>
+                    <th>Symbol</th>
+                    <th>Name</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+</div>
+

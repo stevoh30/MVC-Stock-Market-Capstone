@@ -1,0 +1,372 @@
+﻿@model StockMarket.Models.List.ViewPoint
+@using System.Configuration;
+@using System.Data.SqlClient;
+@using StockMarket.Models.AccessDatabse;
+@{
+    ViewBag.Title = "CompanySite";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string company = Request.Params["com"];
+    string message = String.Empty;
+    Random rd = new Random();
+    AccessDB csp = new AccessDB();
+
+
+    string username = (string)Session["username"];
+    string password = (string)Session["password"];
+    List<Person> people = new List<Person>();
+
+    List<CompanySymbol> companys = new List<CompanySymbol>();
+
+    string conStr = ConfigurationManager.ConnectionStrings["ConStrs"].ConnectionString;
+
+    if (IsPost)
+    {
+        if (username == null)
+        {
+            <div class="alert alert-warning">
+                <a href="#" class="close" data-dismiss="alert">&times;</a>
+                <strong>Warning!</strong> There was a problem. Please Note!!! You need to Be Logged In to View the Page (Make sure Your Cookies are Enabled)
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-success fade in">
+                <a href="#" class="close" data-dismiss="alert">&times;</a>
+                <strong>Success!</strong> Proceed to Cart to finish Transcation and Specify Quantity. Page will refresh in 5 seconds
+            </div>
+                using (SqlConnection con = new SqlConnection(conStr))
+                {
+                    con.Open();
+                    people = csp.Login_Check(username, password, con);
+                    companys = csp.CompaniesPortFolio(company, con);
+                    string id = string.Empty, companyID = string.Empty;
+                    foreach (Person p in people)
+                    {
+                        id = p.UserID;
+                    }
+                    foreach (CompanySymbol cs in companys)
+                    {
+                        companyID = cs.Id;
+                    }
+
+                    csp.InsertPortfolio(id, companyID, company, con);
+                }
+            }
+        }
+    }
+
+    <script type="text/javascript">
+
+
+    google.charts.load('current', { 'packages': ['annotatedtimeline'] });
+    google.charts.load('current', { 'packages': ['corechart'] });
+
+    var onedate = @Html.Raw(Json.Encode(Model._oneDay));
+    var chartpro = @Html.Raw(Json.Encode(Model._oneMonth));
+    var three_Month = @Html.Raw(Json.Encode(Model._threeMonth));
+    var Six_Month = @Html.Raw(Json.Encode(Model._sixMonth));
+    var One_Year = @Html.Raw(Json.Encode(Model._oneYear));
+
+    //var arr = ["#btn1","#btn2","#btn3","#btn4"];
+
+    $(document).ready(function () {
+
+        //Btn=1, Btn1 =1 Month , Btn2 = 3month, btn3 = 6month, btn4 = 1 Year
+        $("#btn").on("click", function () {
+            var data = new google.visualization.DataTable(); // Intialize Datable
+
+            data.addColumn('date', 'Time');//Labels
+            data.addColumn('number', 'sales');//Labels
+
+            for (var a = 0; a < onedate.length; a += 15)//Every 15 Minutes  
+            {
+                var split = onedate[a].minute.split(":");
+
+                var year = onedate[a].date.substring(0, 4);//Get the Year
+                var month = onedate[a].date.substring(6, 4);//Get the Month
+                var date = onedate[a].date.substring(8, 6);//Get the Date
+                var number = onedate[a].open;//Get the Latest Price
+                data.addRow([new Date(year, month - 1, date, split[0], split[1], 0), number]);//Save To DataTable
+            }
+            var chart = new google.visualization.LineChart(document.getElementById('chart_1'));// Get the Div to Draw the Chart
+
+             //Draws Charts And Add Style to It
+            chart.draw(data, {
+                width: 1100, height: 400, backgroundColor: '#1b2838',
+                chartArea: {
+                    width: 1000, height: 350,
+                },
+                colors: ['#ffffff'],
+                curveType: 'function',
+                pointSize: 5, hAxis: { textStyle: { color: '#ffffff' } }, vAxis: { textStyle: { color: '#ffffff' } },
+            });
+
+        });
+
+        $("#btn1").on("click", function () {
+            var data = new google.visualization.DataTable(); // Intialize Datable
+
+            data.addColumn('date', 'Month');//Labels
+            data.addColumn('number', 'sales');//Labels
+            for (var ab = 0; ab < chartpro.length; ab++) {
+
+                var splitdate = chartpro[ab].date.split("-");
+                var year = splitdate[0];//Get the Year
+                var month = splitdate[1];// Get the Month
+                var date = splitdate[2];//Get Date
+
+                var openprice = chartpro[ab].open;
+                data.addRow([new Date(year, month - 1, date), openprice]);//Save To DataTable
+            }
+
+
+            var chart = new google.visualization.LineChart(document.getElementById('chart_1'));// Get the Div to Draw the Chart
+
+            //Draws Charts And Add Style to It
+            chart.draw(data, {
+                width: 1100, height: 400, backgroundColor: '#1b2838',
+                chartArea: {
+                    width: 1000, height: 350,
+                },
+                colors: ['#ffffff'],
+                curveType: 'function',
+                pointSize: 5, hAxis: { textStyle: { color: '#ffffff' } }, vAxis: { textStyle: { color: '#ffffff' } },
+            });
+
+        });
+
+        $("#btn2").on("click", function () {
+            var data = new google.visualization.DataTable(); // Intialize Datable
+
+            data.addColumn('date', 'Month');//Labels
+            data.addColumn('number', 'sales');//Labels
+            for (var ab = 0; ab < three_Month.length; ab++) {
+
+                var splitdate = three_Month[ab].date.split("-");
+                var year = splitdate[0];//Get the Year
+                var month = splitdate[1];//Get the Month
+                var date = splitdate[2];//Get the Date
+
+                var openprice = three_Month[ab].open;//Get the Price
+                data.addRow([new Date(year, month - 1, date), openprice]);//Save To DataTable
+            }
+
+            var chart = new google.visualization.LineChart(document.getElementById('chart_1'));// Get the Div to Draw the Chart
+
+            //Draws Charts And Add Style to It
+            chart.draw(data, {
+                width: 1100, height: 400, backgroundColor: '#1b2838',
+                chartArea: {
+                    width: 1000, height: 350,
+                },
+                colors: ['#ffffff'],
+                curveType: 'function',
+                pointSize: 5, hAxis: { textStyle: { color: '#ffffff' } }, vAxis: { textStyle: { color: '#ffffff' } },
+            });
+
+        });
+
+        $("#btn3").on("click", function () {
+            var data = new google.visualization.DataTable(); // Intialize Datable
+
+            data.addColumn('date', 'Month');//Labels
+            data.addColumn('number', 'sales');//Labels
+            for (var ab = 0; ab < Six_Month.length; ab += 2) {
+
+                var splitdate = Six_Month[ab].date.split("-");
+                var year = splitdate[0];//Get the Year
+                var month = splitdate[1];//Get the Month
+                var date = splitdate[2];//Get the Date
+
+                var openprice = Six_Month[ab].open;//Get the Price
+                data.addRow([new Date(year, month - 1, date), openprice]);//Save To DataTable
+            }
+
+            var chart = new google.visualization.LineChart(document.getElementById('chart_1'));// Get the Div to Draw the Chart
+
+            //Draws Charts And Add Style to It
+            chart.draw(data, {
+                width: 1100, height: 400, backgroundColor: '#1b2838',
+                chartArea: {
+                    width: 1000, height: 350,
+                },
+                colors: ['#ffffff'],
+                curveType: 'function',
+                pointSize: 5, hAxis: { textStyle: { color: '#ffffff' } }, vAxis: { textStyle: { color: '#ffffff' } },
+            });
+
+        });
+
+        $("#btn4").on("click", function () {
+            var data = new google.visualization.DataTable(); // Intialize Datable
+
+            data.addColumn('date', 'Month');//Labels
+            data.addColumn('number', 'sales');//Labels
+
+            for (var ab = 0; ab < One_Year.length; ab += 10)//Every 10 Days 
+            {
+
+                var splitdate = One_Year[ab].date.split("-");
+                var year = splitdate[0]; //Get the Year
+                var month = splitdate[1];//Get the Month
+                var date = splitdate[2];
+
+                var openprice = One_Year[ab].open; // Get the Price
+                data.addRow([new Date(year, month - 1, date), openprice]); //Save to DataTable
+            }
+
+            var chart = new google.visualization.LineChart(document.getElementById('chart_1'));// Get the Div to Draw the Chart
+
+            //Draws Charts And Add Style to It
+            chart.draw(data, {
+                width: 1100, height: 400, backgroundColor: '#1b2838',
+                chartArea: {
+                    width: 1000, height: 350,
+                },
+                colors: ['#ffffff'],
+                curveType: 'function',
+                pointSize: 5, hAxis: { textStyle: { color: '#ffffff' } }, vAxis: { textStyle: { color: '#ffffff' } },
+            });
+
+        });
+
+
+
+
+       
+    });
+    </script>
+    <!--The CompanySite have buttons that  displaying charts of each timeline,
+        It also display the company information along with similar companies and new that are associated with it display their company information-->
+
+    <div class="container">
+        <div class="row">
+            <div>
+                <div id="chart_1"></div>
+            </div>
+        </div>
+        <hr>
+        <form method="post">
+            <button id="btn" type="button" class="btn btn-outline-secondary" value="day">1 DAY</button>
+            <button id="btn1" type="button" class="btn btn-outline-secondary" value="month">1 MONTH</button>
+            <button id="btn2" type="button" class="btn btn-outline-secondary" value="month1">3 MONTH</button>
+            <button id="btn3" type="button" class="btn btn-outline-secondary" value="month2">6 MONTH</button>
+            <button id="btn4" type="button" class="btn btn-outline-secondary" value="month3">1 Year</button>
+
+            <input type="submit" class="btn btn-success btn-send" value="Add to PortFolio">
+        </form>
+        <br />
+    </div>
+    <div>
+
+    </div>
+    <div class="container">
+        <hr />
+
+        <h3 style="float:left">Company</h3><h3 style="float:right">Company Description And Related</h3><br />
+        <hr />
+        <div class="row">
+            <div class="col-sm-4 col-md-6 col-lg-4">
+                <div class="card text-white bg-dark mb-3">
+                    <div class="card-header">Company Information</div>
+                    <div class="card-body">
+                        <p><b style="float:left">Sector:</b><span style="float:right">@Model._CompanySection.sector</span></p><br />
+                        <p><b style="float:left">CompanyName:</b><span style="float:right">@Model._CompanySection.companyName</span></p><br />
+                        <p><b style="float:left">Exchange:</b><span style="float:right">@Model._CompanySection.exchange</span></p><br />
+                        <p><b style="float:left">Industry:</b><span style="float:right">@Model._CompanySection.industry</span></p><br />
+                        <p><b style="float:left">Symbol:</b><span style="float:right">@Model._CompanySection.symbol</span></p><br />
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">CEO: @Model._CompanySection.CEO</small><br />
+                        <small class="text-muted">Website: <a href="@Model._CompanySection.website">@Model._CompanySection.website</a></small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-md-6 col-lg-8">
+                <div class="card text-white bg-dark mb-3">
+                    <h5 class="card-header">Company Description</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">@Model._CompanySection.description</h5>
+                    </div>
+                </div>
+                <div>
+
+                    @for (int ad = 0; ad < 1; ad++)
+                    {
+                        int ite = rd.Next(Model._gainers.Count);
+
+                        if (Model._gainers[ite].sector.Equals(Model._CompanySection.sector))
+                        {
+                            <div class="card text-white bg-dark mb-3">
+                                <h5 class="card-header">@Model._gainers[ite].companyName<b style="float:right">$@Model._gainers[ite].latestPrice</b></h5>
+                                <div class="card-body">
+                                    <p><b style="float:left">Sector:</b><span style="float:right">@Model._gainers[ite].sector</span></p><br />
+                                    <p><b style="float:left">CompanyName:</b><span style="float:right">@Model._gainers[ite].companyName</span></p><br />
+                                    <p><b style="float:left">Volume:</b><span style="float:right">@Model._gainers[ite].latestVolume</span></p><br />
+                                    <p><b style="float:left">Primary Exchange:</b><span style="float:right">@Model._gainers[ite].primaryExchange</span></p><br />
+                                    <p><b style="float:left">Symbol:</b><span style="float:right">@Model._gainers[ite].symbol</span></p><br />
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <hr>
+    <div class="container">
+        <h3>News Section</h3>
+        <br>
+        <div class="row">
+            @{
+                foreach (var item in Model._CompanyNews)
+                {
+                    <div class="card text-white bg-dark mb-3">
+                        <h5 class="card-header">@item.source</h5>
+                        <div class="card-body">
+                            <h5 class="card-title">@item.headline</h5>
+                            <p class="card-text">@item.summary</p>
+                            <a href="@item.url" class="btn btn-primary">@item.source</a>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+        <br />
+        <hr />
+
+        <div>
+            <h3 style="text-align:center">Finacial History</h3>
+            <div class="table-responsive">
+                <table class="table table-hover table-sm">
+                    <tbody>
+                        <tr>
+                            <th>Report Date</th>
+                            <th>Gross Profit</th>
+                            <th>Cost Revenue</th>
+                            <th>Total Revenue</th>
+                            <th>Net Income</th>
+                            <th>Current Debt</th>
+                        </tr>
+                        @if (Model._financial.Any())
+                        {
+                            foreach (var items in Model._financial)
+                            {
+                                <tr>
+                                    <th>@items.reportDate</th>
+                                    <th>@items.grossProfit</th>
+                                    <th>@items.costOfRevenue</th>
+                                    <th>@items.totalRevenue</th>
+                                    <th>@items.netIncome</th>
+                                    <th>@items.currentDebt</th>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <br>

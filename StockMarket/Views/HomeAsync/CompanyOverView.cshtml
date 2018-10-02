@@ -1,0 +1,82 @@
+﻿@model StockMarket.Models.List.ViewPoint
+@using StockMarket.Models.Computation
+@{
+    ViewBag.Title = "CompanyOverView";
+    Layout = "~/Views/Shared/_layout2.cshtml";
+    Compute compute = new Compute();
+}
+
+@*api link :https://iextrading.com/developer/*@
+<h3 style="text-align:center">Random Companies OverView</h3><hr />
+<div class="container">
+    <div class="table-responsive">
+        <table id="example" class="table table-hover table-sm" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Change</th>
+                    <th>Change%</th>
+                    <th>Volume</th>
+                    <th>MarketCap</th>
+                    <th>52 Week Range</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model._databseCompanies.Any())
+                {
+                    foreach (var items in Model._databseCompanies)
+                    {
+                        <tr onclick="location.href='@(Url.Action("CompanySite","HomeAsync", new { com = items.symbol }))'">
+
+                            <th>@items.symbol<br />@compute.Truncate(items.companyName)</th>
+
+                            @if (compute.Change_Percent(items.latestPrice, items.previousClose) < 0)
+                            {
+                                <th>
+                                    <div style="float:left;color:#bf1722"> &#9660;</div>
+                                    <div style="color:#bf1722">@items.latestPrice</div>
+                                </th>
+                                <th style="color:#bf1722">@items.change</th>
+                                <th style="color:#bf1722">@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                <th style="color:#bf1722">@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                <th style="color:#bf1722">@compute.MarketCap(items.marketCap)</th>
+                                <th>@items.week52Low<span> - @items.week52High</span></th>
+                            }
+                            else
+                            {
+                                <th>
+                                    <div style="float:left; color:green">&#9650;</div>
+                                    <div style="color:green">@items.latestPrice</div>
+                                </th>
+                                <th style="color:green">&#43;@items.change</th>
+                                <th style="color:green">&#43;@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                <th style="color:green">@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                <th style="color:green">@compute.MarketCap(items.marketCap)</th>
+                                <th>@items.week52Low<span> - @items.week52High</span></th>
+                            }
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <th>N/A</th>
+                        <th>N/A</th>
+                        <th>N/A</th>
+                        <th>N/A</th>
+                        <th>N/A</th>
+                        <th>N/A</th>
+                        <th>N/A</th>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+
+            </tfoot>
+        </table>
+    </div>
+</div>
+
+
+

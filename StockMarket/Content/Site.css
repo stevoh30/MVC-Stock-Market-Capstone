@@ -1,0 +1,67 @@
+﻿body {
+    background-color: #1b2838 !important;
+    color: #ffffff;
+}
+
+hr {
+    border: 0;
+    clear: both;
+    display: block;
+    width: 96%;
+    background-color: #ffffff;
+    height: 1px;
+}
+
+.body-content {
+    padding: 10px;
+}
+
+#navigation_point {
+    padding: 10px;
+    border-radius: 7px;
+}
+#div1 {
+    float: left;
+}
+
+#div2 {
+    float: right;
+}
+
+#testing {
+    background-color: #ff0000 !important;
+}
+
+#bold {
+    font-weight: bold;
+}
+#companyTable {
+    border-collapse: collapse;
+}
+
+#companyTable, #thead, #th1 {
+    border-bottom: 1px solid #ffffff;
+}
+
+
+
+/*Added Today*/
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+div.scrollmenu a {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 14px;
+        text-decoration: none;
+
+          border-right-width: 3px;
+  border-right-style: solid;
+  border-right-color: orange;
+}
+div.scrollmenu a:hover {
+            background-color: #777;
+ }

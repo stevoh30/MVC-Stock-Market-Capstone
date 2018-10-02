@@ -1,0 +1,573 @@
+﻿@model StockMarket.Models.List.ViewPoint
+@using StockMarket.Models.Computation
+@using System.Diagnostics;
+@{
+    ViewBag.Title = "OverViewAsync";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    Stopwatch stopwatch = new Stopwatch();
+    Random rd = new Random();
+    // Begin timing.
+    stopwatch.Start();
+    Compute compute = new Compute();
+}
+
+@*api link :https://iextrading.com/developer/*@
+
+<!-- The Script get the Model.LoserChart/Gainers  which is then seriliaze to Json that is then add to the google.DataTable which is called in the Chart.Draw(),
+    all charts are drawn a div  to which LineGraph  or BarChart is specified.-->
+<script type="text/javascript">
+    google.charts.load('current', { 'packages': ['annotatedtimeline'] });
+    google.charts.load('current', { 'packages': ['corechart'] });
+    google.charts.setOnLoadCallback(DrawChart);
+
+    function DrawChart() {
+        var arr = ["#btn", "#btn2", "#btn3"];
+
+           //Price Graph/ Line Graph
+            var gainers = @Html.Raw(Json.Encode(Model._gainersChart));
+
+            var gainers_data = new google.visualization.DataTable(gainers);
+
+            var losers = @Html.Raw(Json.Encode(Model._losersChart));
+
+            var losers_data = new google.visualization.DataTable(losers);
+
+            var active = @Html.Raw(Json.Encode(Model._activeChart));
+
+            var active_data = new google.visualization.DataTable(active);
+
+            //Volume Graph/ BarChart
+
+            var gainersVolume = @Html.Raw(Json.Encode(Model.GainersChartVolume));
+
+            var gainers_Volume = new google.visualization.DataTable(gainersVolume);
+
+            var losersVolume = @Html.Raw(Json.Encode(Model.LosersChartVolume));
+
+            var Losers_Volume = new google.visualization.DataTable(losersVolume);
+
+            var activeVolume = @Html.Raw(Json.Encode(Model.ActiveChartVolume));
+
+            var active_Volume = new google.visualization.DataTable(activeVolume);
+
+        for (var key of arr) {
+            $(key).on("click", function () {
+                if (this.id == "btn") {
+                    var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+
+                    var chart2 = new google.visualization.BarChart(document.getElementById('chart_div0001'));
+                    chart.draw(gainers_data,
+                        {
+                            width: 1100, height: 400, backgroundColor: '#1b2838',
+                            chartArea: {
+                                width: 1000, height: 350,
+                            },
+                            colors: ['#ffffff'], legend: 'none',
+                            hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                            vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                            curveType: 'function',
+                            pointSize: 10,
+                        });
+                    chart2.draw(gainers_Volume,
+                        {
+                            width: 1100, height: 400, backgroundColor: '#1b2838',
+                            chartArea: {
+                                width: 995, height: 350,
+                            },
+                            colors: ['#ffffff'], legend: 'none',
+                            hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                            vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                            curveType: 'function',
+                            pointSize: 10,
+                        });
+                }
+                if (this.id = "btn2") {
+
+                    var chart1 = new google.visualization.LineChart(document.getElementById('chart_div1'));
+
+                    var chart_2 = new google.visualization.BarChart(document.getElementById('chart_div00012'));
+
+                    chart1.draw(losers_data,
+                        {
+                            width: 1100, height: 400, backgroundColor: '#1b2838',
+                            chartArea: {
+                                width: 1000, height: 350
+                            },
+                            colors: ['#ffffff'], legend: 'none',
+                            hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                            vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                            curveType: 'function',
+                            pointSize: 10,
+                        });
+
+                    chart_2.draw(Losers_Volume,
+                        {
+                            width: 1100, height: 400, backgroundColor: '#1b2838',
+                            chartArea: {
+                                width: 995, height: 350
+                            },
+                            colors: ['#ffffff'], legend: 'none',
+                            hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                            vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                            curveType: 'function',
+                            pointSize: 10,
+                        });
+                }
+                if (this.id = "btn3") {
+                    if (active.length <= 155) {
+                        //var messagePoint = "There is No Data For Most Active from IEXTRADING API : As Such For More Information please Visit " + "\n https://api.iextrading.com/1.0/stock/market/list/mostactive ";
+                        alert("There is No Data For Most Active from IEXTRADING API : As Such For More Information please Visit " + "\n https://api.iextrading.com/1.0/stock/market/list/mostactive ");
+                    }
+                    else {
+                        var chart_1 = new google.visualization.LineChart(document.getElementById('chart_div2'));
+
+                        var chart_20 = new google.visualization.BarChart(document.getElementById('chart_div2001'));
+
+                        chart_1.draw(active_data,
+                            {
+                                width: 1100, height: 400, backgroundColor: '#1b2838',
+                                chartArea: {
+                                    width: 1000, height: 350
+                                },
+                                colors: ['#ffffff'], legend: 'none',
+                                hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                                vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                                curveType: 'function',
+                                pointSize: 10,
+                            });
+
+                        chart_20.draw(active_Volume,
+                            {
+                                width: 1100, height: 400, backgroundColor: '#1b2838',
+                                chartArea: {
+                                    width: 995, height: 350
+                                },
+                                colors: ['#ffffff'], legend: 'none',
+                                hAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                                vAxis: { minValue: 0, maxValue: 1, textStyle: { color: '#ffffff' } },
+                                curveType: 'function',
+                                pointSize: 10,
+                            });
+                    }
+
+                }
+            })
+        }
+
+    }
+</script>
+<div>
+    <div class="scrollmenu">
+        @if (Model._gainers.Any())
+        {
+            for (int ad = 0; ad < 10; ad++)
+            {
+                int ite = rd.Next(Model._gainers.Count);
+
+                string[] split = Model._gainers[ite].primaryExchange.Split(' ');
+                <a href="">
+                    <div>
+                        <p style="float:left">@split[0]</p>&nbsp;&nbsp;&nbsp;&nbsp;<p style="float:right">@Model._gainers[ite].symbol</p><br />
+
+                        @if (compute.Change_Percent(Model._gainers[ite].latestPrice, Model._gainers[ite].previousClose) < 0)// Less than Zero
+                        {
+                            <p style="color:#bf1722">@Model._gainers[ite].latestPrice</p>
+                            <p style="color:#bf1722">@compute.Change_Percent(Model._gainers[ite].latestPrice, Model._gainers[ite].previousClose)</p>
+                        }
+                        else
+                        {
+                            <div style="float:left">
+                                <div style="float:left; color:green">&#9650;</div>
+                                <div style="color:green">@Model._gainers[ite].latestPrice &nbsp;</div>
+                            </div>
+                            <div style="float:right">
+                                <p style="color:green">&nbsp;&nbsp;&#43;@compute.Change_Percent(Model._gainers[ite].latestPrice, Model._gainers[ite].previousClose)</p>
+                            </div>
+
+                        }
+                    </div>
+                </a>
+            }
+
+        }
+    </div>
+
+    <hr>
+    <br />
+    <h3 style="text-align: center;">Market Movers</h3><hr />
+    <div id="movers2" class="tab-content px-1 pt-3">
+        <div>
+            <div>
+
+                <ul class="nav nav-pills">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#tab11" data-toggle="tab">Gainers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#tab12" data-toggle="tab">Losers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#tab13" data-toggle="tab">Active</a>
+                    </li>
+                </ul>
+                <div class="tab-content px-1 pt-3">
+                    <div class="tab-pane active" id="tab11">
+                        <div class="table-responsive">
+                            <table class="table table-hover table-sm">
+                                <tbody>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Price</th>
+                                        <th>Change</th>
+                                        <th>Change%</th>
+                                        <th>Volume</th>
+                                        <th>MarketCap</th>
+                                        <th>52 Week Range</th>
+                                    </tr>
+                                    @if (Model._gainers.Any())
+                                    {
+                                        foreach (var items in Model._gainers)
+                                        {
+                                            <tr onclick="location.href='@(Url.Action("CompanySite","HomeAsync", new { com = items.symbol }))'">
+
+                                                <th>@items.symbol<br />@compute.Truncate(items.companyName)</th>
+
+                                                @if (compute.Change_Percent(items.latestPrice, items.previousClose) < 0)// Less than Zero
+                                                {
+
+                                                    <th>
+                                                        <div style="float:left;color:#bf1722"> &#9660;</div>
+                                                        <div style="color:#bf1722">@items.latestPrice</div>
+                                                    </th>
+                                                    <th style="color:#bf1722">@items.change</th>
+                                                    <th style="color:#bf1722">@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                                    <th style="color:#bf1722">@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                                    <th style="color:#bf1722">@compute.MarketCap(items.marketCap)</th>
+                                                    <th>@items.week52Low<span> - @items.week52High</span></th>
+                                                }
+                                                else
+                                                {
+                                                    <th>
+                                                        <div style="float:left; color:green">&#9650;</div>
+                                                        <div style="color:green">@items.latestPrice</div>
+                                                    </th>
+                                                    <th style="color:green">&#43;@items.change</th>
+                                                    <th style="color:green">&#43;@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                                    <th style="color:green">@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                                    <th style="color:green">@compute.MarketCap(items.marketCap)</th>
+                                                    <th>@items.week52Low<span> - @items.week52High</span></th>
+                                                }
+                                            </tr>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <tr>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                            @*<p style="color:blue" id="gainersChart">View Gainers Chart</p>*@
+                            <button id="btn" type="button" class="btn btn-outline-secondary" value="day">Gainers Charts</button>
+                        </div>
+                        <br />
+                        <div id="chart_div"></div><br />
+                        <h3 style="text-align: center;">Gainers's Chart</h3><br /><br />
+                        <br />
+                        <div id="chart_div0001"></div>
+
+                        <br />
+                        <hr />
+                    </div>
+                    <div class="tab-pane" id="tab12">
+                        <div class="table-responsive">
+                            <table class="table table-hover table-sm">
+                                <tbody>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Price</th>
+                                        <th>Change</th>
+                                        <th>Change%</th>
+                                        <th>Volume</th>
+                                        <th>MarketCap</th>
+                                        <th>52 Week Range</th>
+                                    </tr>
+                                    @if (Model._losers.Any())
+                                    {
+                                        foreach (var items in Model._losers)
+                                        {
+                                            <tr onclick="location.href='@(Url.Action("CompanySite","HomeAsync", new { com = items.symbol }))'">
+                                                <th>@items.symbol<br />@compute.Truncate(items.companyName)</th>
+
+                                                @if (compute.Change_Percent(items.latestPrice, items.previousClose) < 0)
+                                                {
+
+                                                    <th>
+                                                        <div style="float:left;color:#bf1722"> &#9660;</div>
+                                                        <div style="color:#bf1722">@items.latestPrice</div>
+                                                    </th>
+                                                    <th style="color:#bf1722">@items.change</th>
+                                                    <th style="color:#bf1722">@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                                    <th style="color:#bf1722">@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                                    <th style="color:#bf1722">@compute.MarketCap(items.marketCap)</th>
+                                                    <th>@items.week52Low<span> - @items.week52High</span></th>
+                                                }
+                                                else
+                                                {
+                                                    <th>
+                                                        <div style="float:left; color:green">&#9650;</div>
+                                                        <div style="color:green">@items.latestPrice</div>
+                                                    </th>
+                                                    <th style="color:green">&#43;@items.change</th>
+                                                    <th style="color:green">&#43;@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                                    <th style="color:green">@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                                    <th style="color:green">@compute.MarketCap(items.marketCap)</th>
+                                                    <th>@items.week52Low<span> - @items.week52High</span></th>
+                                                }
+                                            </tr>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <tr>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                            <button id="btn2" type="button" class="btn btn-outline-secondary" value="day">Losers Charts</button>
+                        </div>
+                        <br />
+                        <div id="chart_div1"></div>
+                        <h3 style="text-align: center;">Losers's Chart</h3><br /><br />
+
+                        <div id="chart_div00012"></div>
+                        <hr />
+                    </div>
+                    <div class="tab-pane" id="tab13">
+                        <div class="table-responsive">
+                            <table class="table table-hover table-sm">
+                                <tbody>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Price</th>
+                                        <th>Change</th>
+                                        <th>Change%</th>
+                                        <th>Volume</th>
+                                        <th>MarketCap</th>
+                                        <th>52 Week Range</th>
+                                    </tr>
+                                    @if (Model._active.Any())
+                                    {
+                                        foreach (var items in Model._active)
+                                        {
+                                            <tr onclick="location.href='@(Url.Action("CompanySite","HomeAsync", new { com = items.symbol }))'">
+
+                                                <th>@items.symbol<br />@compute.Truncate(items.companyName)</th>
+
+                                                @if (compute.Change_Percent(items.latestPrice, items.previousClose) < 0)
+                                                {
+
+                                                    <th>
+                                                        <div style="float:left;color:#bf1722"> &#9660;</div>
+                                                        <div style="color:#bf1722">@items.latestPrice</div>
+                                                    </th>
+                                                    <th style="color:#bf1722">@items.change</th>
+                                                    <th style="color:#bf1722">@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                                    <th style="color:#bf1722">@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                                    <th style="color:#bf1722">@compute.MarketCap(items.marketCap)</th>
+                                                    <th>@items.week52Low<span> - @items.week52High</span></th>
+                                                }
+                                                else
+                                                {
+                                                    <th>
+                                                        <div style="float:left; color:green">&#9650;</div>
+                                                        <div style="color:green">@items.latestPrice</div>
+                                                    </th>
+                                                    <th style="color:green">&#43;@items.change</th>
+                                                    <th style="color:green">&#43;@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                                    <th style="color:green">@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                                    <th style="color:green">@compute.MarketCap(items.marketCap)</th>
+                                                    <th>@items.week52Low<span> - @items.week52High</span></th>
+                                                }
+                                            </tr>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <tr>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <button id="btn3" type="button" class="btn btn-outline-secondary" value="day">Active Charts</button>
+                        </div>
+                        <br />
+                        <div>
+                            <div id="chart_div2"></div>
+                            <h3 style="text-align:center;">Active Charts</h3><br /><br />
+                            <div id="chart_div2001"></div>
+                        </div>
+
+
+                        <hr />
+                    </div>
+                </div>
+            </div><!--Hidden Table Part-->
+        </div>
+    </div>
+
+    <br />
+    <h3 style="text-align: center;">High And Lows Companies</h3><hr />
+    <div id="movers3" class="tab-content px-1 pt-3">
+        <div>
+            <div>
+
+                <ul class="nav nav-pills">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#tab01" data-toggle="tab">TOPS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#tab02" data-toggle="tab">LAST</a>
+                    </li>
+                </ul>
+                <div class="tab-content px-1 pt-3">
+                    <div class="tab-pane active" id="tab01">
+                        <div class="table-responsive">
+                            <table class="table table-hover table-sm">
+                                <tbody>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Price</th>
+                                        <th>Change</th>
+                                        <th>Change%</th>
+                                        <th>Volume</th>
+                                        <th>MarketCap</th>
+                                        <th>52 Week Range</th>
+                                    </tr>
+                                    @if (Model._topComp.Any())
+                                    {
+                                        foreach (var items in Model._topComp)
+                                        {
+                                            <tr>
+
+                                                <th>@items.symbol<br />@compute.Truncate(items.companyName)</th>
+
+                                                @if (compute.Change_Percent(items.latestPrice, items.previousClose) < 0)
+                                                {
+                                                    <th>
+                                                        <div style="float:left;color:#bf1722"> &#9660;</div>
+                                                        <div style="color:#bf1722">@items.latestPrice</div>
+                                                    </th>
+                                                    <th style="color:#bf1722">@items.change</th>
+                                                    <th style="color:#bf1722">@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                                    <th>@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                                    <th>@compute.MarketCap(items.marketCap)</th>
+                                                    <th>@items.week52Low<span> - @items.week52High</span></th>
+                                                }
+                                                else
+                                                {
+                                                    <th>
+                                                        <div style="float:left; color:green">&#9650;</div>
+                                                        <div style="color:green">@items.latestPrice</div>
+                                                    </th>
+                                                    <th style="color:green">&#43;@items.change</th>
+                                                    <th style="color:green">&#43;@compute.Change_Percent(items.latestPrice, items.previousClose)</th>
+                                                    <th>@compute.Value(Convert.ToDouble(items.latestVolume))</th>
+                                                    <th>@compute.MarketCap(items.marketCap)</th>
+                                                    <th>@items.week52Low<span> - @items.week52High</span></th>
+                                                }
+                                            </tr>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <tr>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab02">
+                        <div class="table-responsive">
+                            <table class="table table-hover table-sm">
+                                <tbody>
+                                    <tr>
+                                        <th>Symbol</th>
+                                        <th>Price</th>
+                                        <th>Size</th>
+                                        <th>Time</th>
+                                    </tr>
+                                    @if (Model._Lastcompany.Any())
+                                    {
+                                        for (int ad = 0; ad < 10; ad++)
+                                        {
+                                            int items = rd.Next(Model._Lastcompany.Count);
+                                            <tr>
+
+                                                <th>@Model._Lastcompany[items].symbol</th>
+                                                <th>@Model._Lastcompany[items].price</th>
+                                                <th>@Model._Lastcompany[items].size</th>
+                                                <th>@Model._Lastcompany[items].time</th>
+                                            </tr>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <tr>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                            <th>N/A</th>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div><!--Hidden Table Part-->
+        </div>
+    </div>
+</div>
+<br />
+<div>
+    <p>Total Milliseconds: @stopwatch.Elapsed.Milliseconds</p>
+</div>
+
