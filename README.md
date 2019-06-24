@@ -4,4 +4,4 @@ Capstone Project for Associates Degree at Renton Technical College.  ASP.NET MVC
 # Learned
  - MVC Framework
  - Improved familiarity with SQL and database design
- - API concepting
+ - API concepts
